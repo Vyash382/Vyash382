@@ -12,7 +12,7 @@
 
 - 🎓 CSE Student | Passionate about **System Design**, **DSA**, and building **real-world apps**
 - 💻 Actively solving hard problems on **LeetCode** (800+) and **Codeforces** (400+)
-- 🚀 Currently building: `StudyLive`, `MediConnect`, `Plantos`, `Resume Tracker`, `EduMeet` (Udemy-type platform)
+- 🚀 Currently building: `StudyLive`, `Plantos`
 - 🔭 Exploring: WebRTC, 100ms, Socket.IO, LRU Caching, Docker, Redis
 - 📖 Learning by building full-stack, scalable, real-time applications
 
